@@ -1,0 +1,15 @@
+{
+  "name": "server-database-app",
+  "version": "1.0.0",
+  "description": "Activity 3 to 7",
+  "author": "bien",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "cors": "^2.8.5"
+  }
+}
